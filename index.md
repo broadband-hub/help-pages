@@ -1,8 +1,8 @@
 --
-title: Hello world
+title: Help | Broadband Hub
 --
 
-## Welcome to GitHub Pages
+## Welcome to Broadband Hub Help
 
 You can use the [editor on GitHub](https://github.com/broadband-hub/help-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
