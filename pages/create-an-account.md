@@ -7,7 +7,7 @@ permalink: /create-an-account
 # Create an Account
 
 
-1. Open [Broadband Hub](https://app.broadbandhub.us/login).
+1. Open [Broadband Hub](https://broadbandhub.us/login).
 2. Select *"Register"*
 3. Fill in your *name* and *e-mail,* Create a password, then click *"Submit"*
 4. Fill out your *dipslay name* and upload a *profile picture.* Then, click *"Next"*
