@@ -4,26 +4,22 @@ title: Create an account
 permalink: /create-an-account
 ---
 
-# {{ page.title }}
-<br>
+# Create an Account
 
-## 1. Open [Broadband Hub](https://app.broadbandhub.us/login)
-<br>
 
-## 2. Select *"Register"*
-<br>
+1. Open [Broadband Hub](https://app.broadbandhub.us/login).
+2. Select *"Register"*
+3. Fill in your *name* and *e-mail,* Create a password, then click *"Submit"*
+4. Fill out your *dipslay name* and upload a *profile picture.* Then, click *"Next"*
+5. Enter your *organization code* or create a *New Organization.*
 
-## 3. Fill in your name, e-mail, and create a password, then click *"Submit"*
-<br>
+# Creating a New Organization
 
-## 4. Fill out your dipslay name and update the profile picture, then click *"Next"*
-<br>
 
-## 5. Enter organization code or make New Organization
-+ If you make a new organization select ***"Create New Organization"***
-+ Create an organization name
-+ Select type of payment plan desired
-+ fill out card information and if you have a promo code
-+ Select ***"Create Organization"***
+1. Select *"Create New Organization"*
+2. Create an organization name.
+3. Select the type of *payment plan* desired.
+4. Enter your card information. Don't forget your promo code!
+5. Select *"Create Organization"*
 
 
