@@ -26,4 +26,4 @@ permalink: /create-an-account
 + fill out card information and if you have a promo code
 + Select ***"Create Organization"***
 
-
+change
