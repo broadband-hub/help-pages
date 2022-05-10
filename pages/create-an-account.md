@@ -6,20 +6,28 @@ permalink: /create-an-account
 
 # Create an Account
 
-
+## Getting Started
 1. Open [Broadband Hub](https://broadbandhub.us/login).
-2. Select *"Register"*
-3. Fill in your *name* and *e-mail,* Create a password, then click *"Submit"*
-4. Fill out your *dipslay name* and upload a *profile picture.* Then, click *"Next"*
-5. Enter your *organization code* or create a *New Organization.*
+2. If you already have a BroadbandHub account, select *"Go To Dashboard."* If you wish to create a new account, make sure you are logged out. Then, click *"Get Started."*  
+3. Sign in with your *Email*, *Google*, or *Microsoft* account.
 
-# Creating a New Organization
+## Choosing an Organization Setup
+If you wish to **join an organization**:
+- Enter the access code for your organization. Then, continue!
 
+If you wish to **create an organization**:
+- Enter the desired name of your organization. Then, continue!
 
-1. Select *"Create New Organization"*
-2. Create an organization name.
-3. Select the type of *payment plan* desired.
-4. Enter your card information. Don't forget your promo code!
-5. Select *"Create Organization"*
+## Account Setup
+Follow the prompts to determine your platform.
+1. Select your organization type. If your answer to this is "other," follow the prompts to contact us so we can better assist you!
+2. Enter in your identifiction. 
+  - For an *applicant*, enter your billed entity number (BEN).
+  - For a *consultant*, enter your consultant registration number (CRN).
+  - For a *service provider*,
+
+Verify that your information is correct!
+
+3. Continue to your E-rate dashboard.
 
 
